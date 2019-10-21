@@ -1,0 +1,12 @@
+[submodule "users"]
+	path = users
+	url = https://github.com/Ryan-Willpower/user-service.git
+[submodule "posts"]
+	path = posts
+	url = https://github.com/Ryan-Willpower/posts-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Ryan-Willpower/microservice-frontend.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Ryan-Willpower/gateway.git
