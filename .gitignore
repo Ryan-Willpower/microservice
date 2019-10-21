@@ -1,0 +1,9 @@
+# sql things
+blog.sql
+db/
+
+# my docker-compose files. can't let you see it hehe
+docker-compose.yml
+
+# the most secret file!
+.env
