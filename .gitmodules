@@ -10,3 +10,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/Ryan-Willpower/gateway.git
+[submodule "comment"]
+	path = comment
+	url = https://github.com/Ryan-Willpower/comment-service.git
