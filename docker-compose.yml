@@ -18,6 +18,7 @@ services:
 
   users:
     build: users/
+    image: willpower/users_service
     restart: always
     hostname: users
     ports:
@@ -27,6 +28,7 @@ services:
 
   posts:
     build: posts/
+    image: willpower/posts_service
     restart: always
     hostname: posts
     ports:
@@ -36,6 +38,7 @@ services:
 
   comment:
     build: comment/
+    image: willpower/comment_service
     restart: always
     hostname: comment
     ports:
